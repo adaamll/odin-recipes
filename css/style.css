@@ -19,6 +19,7 @@ img {
 }
 
 h1 {
+    text-align:center;
     font-size: 65px;
     color: black;
     margin: 100px 700px 200px 700px;
@@ -29,11 +30,16 @@ h3 {
     padding-top: 40px;
 }
 
+ol {
+    list-style-position: inside;
+}
+
 ul {
     font-size: 20px;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: black;
     font-weight: bold;
+    list-style-position: inside;
     
 }
 
